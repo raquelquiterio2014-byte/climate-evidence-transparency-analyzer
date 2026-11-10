@@ -1,0 +1,7 @@
+country,year,sector,gas,value,unit,source_url
+DemoLand,2022,Energy,CO2e,125,MtCO2e,https://example.org/synthetic
+DemoLand,2023,Energy,CO2e,129,MtCO2e,https://example.org/synthetic
+DemoLand,2023,Transport,CO2e,18000,ktCO2e,https://example.org/synthetic
+SampleRepublic,2022,Energy,CO2e,41,MtCO2e,https://example.org/synthetic
+SampleRepublic,2023,Energy,CO2e,-2,MtCO2e,
+DemoLand,2023,Energy,CO2e,129,MtCO2e,https://example.org/synthetic
